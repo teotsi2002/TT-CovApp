@@ -1,0 +1,12 @@
+Copyright (c) 2026 Thodoris T.
+
+This software was developed as part of a diploma thesis at the 
+Aristotle University of Thessaloniki (AUTH), School of Engineering, 
+Department of Surveying and Geodesy Engineering.
+
+All rights reserved.
+
+This software is provided for academic and research purposes only.
+Any reproduction, distribution, modification, or commercial use 
+of this software, in whole or in part, is strictly prohibited 
+without prior written permission from the author.
