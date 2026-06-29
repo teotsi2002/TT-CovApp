@@ -11,7 +11,7 @@ gravity anomaly data.
 Core functionalities include:
 - Computation of empirical covariance functions based on spatial data
 - Implementation of multiple analytical covariance models 
-  (e.g., Exponential, Gaussian, Hirvonen, Forsberg planar model)
+  (e.g., Exponential, Gaussian, Hirvonen, Forsberg planar model and others)
 - Determination of correlation length and variance characteristics
 - Prediction of gravity field quantities using Least Squares Collocation (LSC)
 
